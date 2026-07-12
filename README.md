@@ -4,7 +4,7 @@ Proyecto académico — **Ingeniería en Informática, INACAP**
 Asignatura: Programación Front-End
 
 ## 1. Integrantes
-- Nombre Apellido (completar)
+- Victor Pino
 
 ## 2. Objetivo
 Desarrollar una aplicación web responsiva que representa la página principal de una
