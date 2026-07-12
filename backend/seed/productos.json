@@ -1,0 +1,112 @@
+[
+  {
+    "nombre": "Notebook Gamer ASUS ROG Strix G16",
+    "categoria": "Notebooks",
+    "precio": 1299990,
+    "imagen": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=500",
+    "valoracion": 4.8,
+    "reviews": 128,
+    "descripcion": "Notebook gamer de alto rendimiento con RTX y pantalla 165Hz.",
+    "destacado": true,
+    "stock": 12
+  },
+  {
+    "nombre": "iPhone 15 Pro Max 256GB",
+    "categoria": "Smartphones",
+    "precio": 1219990,
+    "imagen": "https://images.unsplash.com/photo-1592286927505-1def25115481?w=500",
+    "valoracion": 4.9,
+    "reviews": 96,
+    "descripcion": "El último smartphone premium con chip A17 Pro.",
+    "destacado": true,
+    "stock": 20
+  },
+  {
+    "nombre": "Monitor LG UltraGear 27\" 165Hz QHD",
+    "categoria": "Monitores",
+    "precio": 349990,
+    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500",
+    "valoracion": 4.7,
+    "reviews": 74,
+    "descripcion": "Monitor gamer QHD con alta tasa de refresco y bajo tiempo de respuesta.",
+    "destacado": true,
+    "stock": 15
+  },
+  {
+    "nombre": "Mouse Gamer Logitech G502 HERO",
+    "categoria": "Perifericos",
+    "precio": 49990,
+    "imagen": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500",
+    "valoracion": 4.6,
+    "reviews": 158,
+    "descripcion": "Mouse gamer con sensor HERO 25K y pesas ajustables.",
+    "destacado": true,
+    "stock": 40
+  },
+  {
+    "nombre": "Teclado Mecánico Redragon Kumara",
+    "categoria": "Perifericos",
+    "precio": 34990,
+    "imagen": "https://images.unsplash.com/photo-1595225476474-89ef86e0a35d?w=500",
+    "valoracion": 4.5,
+    "reviews": 210,
+    "descripcion": "Teclado mecánico compacto con retroiluminación RGB.",
+    "destacado": true,
+    "stock": 35
+  },
+  {
+    "nombre": "Audífonos HyperX Cloud II",
+    "categoria": "Audio",
+    "precio": 59990,
+    "imagen": "https://images.unsplash.com/photo-1599669454699-248893623440?w=500",
+    "valoracion": 4.7,
+    "reviews": 187,
+    "descripcion": "Audífonos gamer con sonido envolvente 7.1 y micrófono desmontable.",
+    "destacado": true,
+    "stock": 25
+  },
+  {
+    "nombre": "SSD NVMe Kingston 1TB",
+    "categoria": "Almacenamiento",
+    "precio": 64990,
+    "imagen": "https://images.unsplash.com/photo-1591370874773-6702e8f12fd8?w=500",
+    "valoracion": 4.8,
+    "reviews": 143,
+    "descripcion": "Unidad de estado sólido NVMe de alta velocidad para tu equipo.",
+    "destacado": true,
+    "stock": 30
+  },
+  {
+    "nombre": "Cámara Web Logitech C920",
+    "categoria": "Perifericos",
+    "precio": 44990,
+    "imagen": "https://images.unsplash.com/photo-1587826080692-f439465b6e77?w=500",
+    "valoracion": 4.4,
+    "reviews": 98,
+    "descripcion": "Cámara web Full HD ideal para streaming y videollamadas.",
+    "destacado": true,
+    "stock": 22
+  },
+  {
+    "nombre": "Tablet Samsung Galaxy Tab S9",
+    "categoria": "Tablets",
+    "precio": 549990,
+    "imagen": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "valoracion": 4.6,
+    "reviews": 61,
+    "descripcion": "Tablet premium con pantalla AMOLED y S Pen incluido.",
+    "destacado": true,
+    "stock": 10
+  },
+  {
+    "nombre": "Memoria RAM Corsair Vengeance 16GB",
+    "categoria": "Componentes",
+    "precio": 39990,
+    "imagen": "https://images.unsplash.com/photo-1562976540-1502c2145186?w=500",
+    "valoracion": 4.7,
+    "reviews": 112,
+    "descripcion": "Kit de memoria RAM DDR4 de alto rendimiento.",
+    "destacado": true,
+    "stock": 28
+  }
+]
